@@ -1,0 +1,7 @@
+streamlit
+pydantic-settings
+duckduckgo-search
+pydantic
+requests
+beautifulsoup4
+pytest
